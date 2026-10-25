@@ -1,0 +1,41 @@
+{
+  "name": "@stevelacey/ui-avatars",
+  "version": "0.0.0",
+  "description": "Deterministic avatar URLs: Gravatar photos with a colorful initials fallback.",
+  "keywords": [
+    "avatar",
+    "gravatar",
+    "libravatar",
+    "initials",
+    "ui-avatars"
+  ],
+  "homepage": "https://github.com/stevelacey/ui-avatars-js",
+  "bugs": "https://github.com/stevelacey/ui-avatars-js/issues",
+  "repository": "github:stevelacey/ui-avatars-js",
+  "license": "MIT",
+  "author": "Steve Lacey <steve@steve.ly>",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./types/index.d.ts",
+      "default": "./src/index.js"
+    }
+  },
+  "files": [
+    "src",
+    "types"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "lint": "biome check",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.3",
+    "@vitest/coverage-v8": "5.0.5",
+    "vitest": "5.0.5"
+  }
+}

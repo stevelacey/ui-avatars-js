@@ -1,0 +1,33 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "*"
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "26"
+          registry-url: https://registry.npmjs.org
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run lint
+
+      - run: npm test
+
+      - run: npm version "$GITHUB_REF_NAME" --no-git-tag-version --allow-same-version
+
+      # Published via npm trusted publishing, skipping versions already published by hand
+      - run: npm view "$(npm pkg get name | tr -d '"')@$GITHUB_REF_NAME" version | grep -q . || npm publish --access public
