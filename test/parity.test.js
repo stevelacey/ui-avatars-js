@@ -5,8 +5,7 @@ import { md5 } from '../src/md5.js'
 import { sha256 } from '../src/sha256.js'
 import fixtures from './fixtures.json' with { type: 'json' }
 
-// Generated from the PHP package, so every port builds the same URLs
-describe('matches the PHP package', () => {
+describe('fixtures', () => {
   test.each(fixtures.avatars)('$input with $config', ({ config, input, url, error }) => {
     const build = () => new Avatars({ ...config }).build({ ...input })
 

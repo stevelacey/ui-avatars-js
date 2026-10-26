@@ -66,6 +66,7 @@ export class Avatars {
 
 export function avatarUrl(options: BuildOptions): string
 export function buildUrl(base: string, params: Record<string, string | number | null | undefined>): string
+export function isLocal(url: string): boolean
 export function parseHostname(value: string | null | undefined): string | null
 export function initials(name: string, options?: { length?: number; uppercase?: boolean }): string
 export function userAvatarName(user: User): string

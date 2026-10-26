@@ -1,9 +1,4 @@
-// Characters are code points, not UTF-16 units, so emoji and astral letters stay whole
-export function substr(value, start, length) {
-  return Array.from(value)
-    .slice(start, start + length)
-    .join('')
-}
+import { substr } from './utils.js'
 
 export function initials(name, { length = 2, uppercase = true } = {}) {
   name = name.trim()

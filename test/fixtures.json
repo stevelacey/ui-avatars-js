@@ -3785,6 +3785,1765 @@
             "url": "https://ui-avatars.com/api/OD/128/06b6d433/06b6d4/2/0.4/0/1/1/svg"
         },
         {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "alpha": 1
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "alpha": 0.5
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "alpha": 0.75
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "alpha": 0.3
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "alpha": 0.1
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "alpha": 0
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "size": 256
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "rounded": true
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "rounded": true,
+                "mask": "hexagon"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "mask": "circle"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "mask": "hexagon",
+                "format": "webp"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "format": "png"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "format": "svg"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "format": "jpg"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "bold": false,
+                "uppercase": false,
+                "length": 3,
+                "fontSize": 0.5
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "length": 1
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "fontSize": 1.0
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "color": "#f00"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "background": "#000",
+                "fontColor": "fff"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "background": "random"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "region": "eu"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "region": "na",
+                "rounded": true
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "host": "avatars.example.com"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "host": "http://avatars.example.com",
+                "region": "eu"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "proxy": "images.example.com",
+                "mask": "square"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "source": "libravatar"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "source": "libravatar",
+                "host": "avatars.example.com"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "source": "secure.gravatar.com"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "hash": "md5"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "source": ""
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "alpha": 1
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "alpha": 0.5
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "alpha": 0.75
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "alpha": 0.3
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "alpha": 0.1
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "alpha": 0
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "size": 256
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "rounded": true
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "rounded": true,
+                "mask": "hexagon"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "mask": "circle"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "mask": "hexagon",
+                "format": "webp"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "format": "png"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "format": "svg"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "format": "jpg"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "bold": false,
+                "uppercase": false,
+                "length": 3,
+                "fontSize": 0.5
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "length": 1
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "fontSize": 1.0
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "color": "#f00"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "background": "#000",
+                "fontColor": "fff"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "background": "random"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "region": "eu"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "region": "na",
+                "rounded": true
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "host": "avatars.example.com"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "host": "http://avatars.example.com",
+                "region": "eu"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "proxy": "images.example.com",
+                "mask": "square"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "source": "libravatar"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "source": "libravatar",
+                "host": "avatars.example.com"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "source": "secure.gravatar.com"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "hash": "md5"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "source": ""
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "alpha": 1
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "alpha": 0.5
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "alpha": 0.75
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "alpha": 0.3
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "alpha": 0.1
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "alpha": 0
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "size": 256
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "rounded": true
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "rounded": true,
+                "mask": "hexagon"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "mask": "circle"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "mask": "hexagon",
+                "format": "webp"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "format": "png"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "format": "svg"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "format": "jpg"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "bold": false,
+                "uppercase": false,
+                "length": 3,
+                "fontSize": 0.5
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "length": 1
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "fontSize": 1.0
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "color": "#f00"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "background": "#000",
+                "fontColor": "fff"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "background": "random"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "region": "eu"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "region": "na",
+                "rounded": true
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "host": "avatars.example.com"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "host": "http://avatars.example.com",
+                "region": "eu"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "proxy": "images.example.com",
+                "mask": "square"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "source": "libravatar"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "source": "libravatar",
+                "host": "avatars.example.com"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "source": "secure.gravatar.com"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "hash": "md5"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "source": ""
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "alpha": 1
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "alpha": 0.5
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "alpha": 0.75
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "alpha": 0.3
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "alpha": 0.1
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "alpha": 0
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "size": 256
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "rounded": true
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "rounded": true,
+                "mask": "hexagon"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "mask": "circle"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "mask": "hexagon",
+                "format": "webp"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "format": "png"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "format": "svg"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "format": "jpg"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "bold": false,
+                "uppercase": false,
+                "length": 3,
+                "fontSize": 0.5
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "length": 1
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "fontSize": 1.0
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "color": "#f00"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "background": "#000",
+                "fontColor": "fff"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "background": "random"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "region": "eu"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "region": "na",
+                "rounded": true
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "host": "avatars.example.com"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "host": "http://avatars.example.com",
+                "region": "eu"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "proxy": "images.example.com",
+                "mask": "square"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "source": "libravatar"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "source": "libravatar",
+                "host": "avatars.example.com"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "source": "secure.gravatar.com"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "hash": "md5"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "source": ""
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "alpha": 1
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff97316%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "alpha": 0.5
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731680%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "alpha": 0.75
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff97316bf%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "alpha": 0.3
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff973164c%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "alpha": 0.1
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff973161a%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "alpha": 0
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731600%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "size": 256
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F256%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=256&h=256&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "rounded": true,
+                "mask": "hexagon"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fwsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F1%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dhexagon%26output%3Dpng&fit=cover&w=128&h=128&mask=hexagon&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "mask": "circle"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "mask": "hexagon",
+                "format": "webp"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fwsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dhexagon%26output%3Dwebp&fit=cover&w=128&h=128&mask=hexagon&output=webp"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "format": "png"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Frgba%28249%2C115%2C22%2C0.2%29%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fpng&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "format": "svg"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=svg"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "format": "jpg"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fwsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26output%3Djpg&fit=cover&w=128&h=128&output=jpg"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "bold": false,
+                "uppercase": false,
+                "length": 3,
+                "fontSize": 0.5
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FALo%2F128%2Ff9731633%2Ff97316%2F3%2F0.5%2F0%2F0%2F0%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "length": 1
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FA%2F128%2Ff9731633%2Ff97316%2F1%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "fontSize": 1.0
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F1%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "color": "#f00"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Fff000033%2Fff0000%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "background": "#000",
+                "fontColor": "fff"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2F00000033%2Fffffff%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "background": "random"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Frandom%2Fauto%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "region": "eu"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Feu.ui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "region": "na",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fna.ui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "host": "avatars.example.com"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Favatars.example.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "host": "http://avatars.example.com",
+                "region": "eu"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=http%3A%2F%2Favatars.example.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "proxy": "images.example.com",
+                "mask": "square"
+            },
+            "url": "https://images.example.com/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fimages.example.com%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dsquare%26output%3Dpng&fit=cover&w=128&h=128&mask=square&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "source": "libravatar"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "source": "libravatar",
+                "host": "avatars.example.com"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Favatars.example.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "source": "secure.gravatar.com"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "hash": "md5"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "source": ""
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "alpha": 1
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff97316%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "alpha": 0.5
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731680%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "alpha": 0.75
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff97316bf%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "alpha": 0.3
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff973164c%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "alpha": 0.1
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff973161a%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "alpha": 0
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731600%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "size": 256
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F256%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=256&h=256&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "rounded": true,
+                "mask": "hexagon"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fwsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F1%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dhexagon%26output%3Dpng&fit=cover&w=128&h=128&mask=hexagon&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "mask": "circle"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "mask": "hexagon",
+                "format": "webp"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fwsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dhexagon%26output%3Dwebp&fit=cover&w=128&h=128&mask=hexagon&output=webp"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "format": "png"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Frgba%28249%2C115%2C22%2C0.2%29%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fpng&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "format": "svg"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=svg"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "format": "jpg"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fwsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26output%3Djpg&fit=cover&w=128&h=128&output=jpg"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "bold": false,
+                "uppercase": false,
+                "length": 3,
+                "fontSize": 0.5
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FALo%2F128%2Ff9731633%2Ff97316%2F3%2F0.5%2F0%2F0%2F0%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "length": 1
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FA%2F128%2Ff9731633%2Ff97316%2F1%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "fontSize": 1.0
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F1%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "color": "#f00"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Fff000033%2Fff0000%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "background": "#000",
+                "fontColor": "fff"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2F00000033%2Fffffff%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "background": "random"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Frandom%2Fauto%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "region": "eu"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Feu.ui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "region": "na",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fna.ui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "host": "avatars.example.com"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Favatars.example.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "host": "http://avatars.example.com",
+                "region": "eu"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=http%3A%2F%2Favatars.example.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "proxy": "images.example.com",
+                "mask": "square"
+            },
+            "url": "https://images.example.com/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fimages.example.com%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dsquare%26output%3Dpng&fit=cover&w=128&h=128&mask=square&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "source": "libravatar"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "source": "libravatar",
+                "host": "avatars.example.com"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Favatars.example.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "source": "secure.gravatar.com"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "hash": "md5"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": [],
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "source": ""
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ff9731633%2Ff97316%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
             "config": {
                 "colors": [
                     "#1d4ed8",
@@ -4145,6 +5904,170 @@
                 "rounded": true
             },
             "url": "https://ui-avatars.com/api/OD/128/b91c1c33/b91c1c/2/0.4/1/1/1/svg"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "rounded": true
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "rounded": true
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "rounded": true
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "rounded": true
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2F1d4ed833%2F1d4ed8%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2F1d4ed833%2F1d4ed8%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2F1d4ed833%2F1d4ed8%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": {
+                "colors": [
+                    "#1d4ed8",
+                    "#b91c1c"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2F1d4ed833%2F1d4ed8%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
         },
         {
             "config": {
@@ -4594,6 +6517,206 @@
         },
         {
             "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "rounded": true
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "rounded": true
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "rounded": true
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "rounded": true
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ffee2e233%2Fef4444%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ffee2e233%2Fef4444%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ffee2e233%2Fef4444%2F2%2F0.4%2F0%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&output=png"
+        },
+        {
+            "config": {
+                "colors": [
+                    [
+                        "#fee2e2",
+                        "#ef4444"
+                    ],
+                    "#fff"
+                ]
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F128%2Ffee2e233%2Fef4444%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=circle&output=png"
+        },
+        {
+            "config": {
                 "alpha": 1,
                 "size": 64,
                 "rounded": true
@@ -4925,6 +7048,158 @@
                 "rounded": true
             },
             "url": "https://ui-avatars.com/api/OD/64/06b6d4/06b6d4/2/0.4/1/1/1/svg"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "rounded": true
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "rounded": true
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "rounded": true
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "rounded": true
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F64%2Ff97316%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=64&h=64&mask=circle&output=png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F64%2Ff97316%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=64&h=64&mask=circle&output=png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png"
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F64%2Ff97316%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=64&h=64&mask=circle&output=png"
+        },
+        {
+            "config": {
+                "alpha": 1,
+                "size": 64,
+                "rounded": true
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "rounded": true
+            },
+            "url": "https://wsrv.nl/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fui-avatars.com%2Fapi%2FAL%2F64%2Ff97316%2Ff97316%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=64&h=64&mask=circle&output=png"
         },
         {
             "config": {
@@ -5259,6 +7534,158 @@
                 "rounded": true
             },
             "url": "https://images.example.com/?url=https%3A%2F%2Fui-avatars.com%2Fapi%2FOD%2F128%2F06b6d433%2F06b6d4%2F2%2F0.4%2F1%2F1%2F1%2Fsvg&fit=cover&w=128&h=128&mask=heart&output=png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png"
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "email": "ada@example.com",
+                "image": "/media/ada.png",
+                "rounded": true
+            },
+            "url": "/media/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png"
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://localhost:8000/media/ada.png",
+                "rounded": true
+            },
+            "url": "http://localhost:8000/media/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png"
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://myapp.test/ada.png",
+                "rounded": true
+            },
+            "url": "https://myapp.test/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png"
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://[fd00::1]/ada.png",
+                "rounded": true
+            },
+            "url": "http://[fd00::1]/ada.png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png"
+            },
+            "url": "https://images.example.com/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fimages.example.com%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dheart%26output%3Dpng&fit=cover&w=128&h=128&mask=heart&output=png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "http://172.32.0.1/ada.png",
+                "rounded": true
+            },
+            "url": "https://images.example.com/?url=http%3A%2F%2F172.32.0.1%2Fada.png&default=https%3A%2F%2Fimages.example.com%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F1%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dheart%26output%3Dpng&fit=cover&w=128&h=128&mask=heart&output=png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png"
+            },
+            "url": "https://images.example.com/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fimages.example.com%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F0%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dheart%26output%3Dpng&fit=cover&w=128&h=128&mask=heart&output=png"
+        },
+        {
+            "config": {
+                "source": "libravatar",
+                "mask": "heart",
+                "proxy": "https://images.example.com"
+            },
+            "input": {
+                "name": "Ada Lovelace",
+                "image": "https://10.example.com/ada.png",
+                "rounded": true
+            },
+            "url": "https://images.example.com/?url=https%3A%2F%2F10.example.com%2Fada.png&default=https%3A%2F%2Fimages.example.com%2F%3Furl%3Dhttps%253A%252F%252Fui-avatars.com%252Fapi%252FAL%252F128%252Ff9731633%252Ff97316%252F2%252F0.4%252F1%252F1%252F1%252Fsvg%26w%3D128%26h%3D128%26mask%3Dheart%26output%3Dpng&fit=cover&w=128&h=128&mask=heart&output=png"
         },
         {
             "config": [],

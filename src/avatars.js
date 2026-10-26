@@ -1,6 +1,7 @@
-import { initials, substr } from './initials.js'
+import { initials } from './initials.js'
 import { md5 } from './md5.js'
 import { sha256 } from './sha256.js'
+import { buildUrl, hexdec, isLocal, parseHostname, rawUrlEncode, roundHalfEven, substr, withScheme } from './utils.js'
 
 // Tailwind's 500 shades, in rainbow order
 export const COLORS = [
@@ -116,6 +117,11 @@ export class Avatars {
       throw new Error(`unknown source: '${source}'`)
     }
 
+    // The proxy can't reach relative or local images, so serve them as they are
+    if (image && isLocal(image)) {
+      return image
+    }
+
     host = host || (region ? HOST.replace('//', `//${region}.`) : HOST)
     const output = format || 'png'
     proxy = proxy || PROXY
@@ -219,36 +225,4 @@ function sharedInstance() {
 
 export function avatarUrl(options) {
   return Avatars.build(options)
-}
-
-// Mirrors PHP's http_build_query with RFC 3986 encoding, which skips nulls
-export function buildUrl(base, params) {
-  const query = Object.entries(params)
-    .filter(([, value]) => value != null)
-    .map(([key, value]) => `${rawUrlEncode(key)}=${rawUrlEncode(String(value))}`)
-    .join('&')
-
-  return `${base}?${query}`
-}
-
-export function parseHostname(value) {
-  return value ? withScheme(value) : (value ?? null)
-}
-
-function withScheme(value) {
-  return value.includes('://') ? value : `https://${value}`
-}
-
-function rawUrlEncode(value) {
-  return encodeURIComponent(value).replace(/[!'()*]/g, (char) => `%${char.charCodeAt(0).toString(16).toUpperCase()}`)
-}
-
-function hexdec(value) {
-  return Number.parseInt(value.replace(/[^0-9a-f]/gi, '') || '0', 16)
-}
-
-function roundHalfEven(value) {
-  const rounded = Math.round(value)
-
-  return Math.abs(value % 1) === 0.5 && rounded % 2 !== 0 ? rounded - 1 : rounded
 }

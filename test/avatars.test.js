@@ -110,3 +110,52 @@ describe('helpers', () => {
     expect(parseHostname('')).toBe('')
   })
 })
+
+describe('local images', () => {
+  test('relative images are served unchanged', () => {
+    expect(new Avatars().build({ name: NAME, email: EMAIL, image: '/media/avatar.jpg', mask: 'hexagon' })).toBe(
+      '/media/avatar.jpg',
+    )
+  })
+
+  test.each([
+    'media/avatar.jpg',
+    '//cdn.example.com/avatar.jpg',
+    'http://localhost:8000/avatar.jpg',
+    'http://app.localhost/avatar.jpg',
+    'https://myapp.test/avatar.jpg',
+    'http://box.local/avatar.jpg',
+    'http://myapp.internal/avatar.jpg',
+    'http://nas.lan/avatar.jpg',
+    'http://router.home.arpa/avatar.jpg',
+    'https://foo.example/avatar.jpg',
+    'http://myapp:8000/avatar.jpg',
+    'http://LOCALHOST./avatar.jpg',
+    'http://user:pass@localhost/avatar.jpg',
+    'http://0.0.0.0:8000/avatar.jpg',
+    'http://127.0.0.1/avatar.jpg',
+    'http://10.0.0.5/avatar.jpg',
+    'http://169.254.1.1/avatar.jpg',
+    'http://172.16.0.1/avatar.jpg',
+    'http://172.31.255.255/avatar.jpg',
+    'http://192.168.1.2:8080/avatar.jpg',
+    'http://[::1]:8000/avatar.jpg',
+    'http://[fd00::1]/avatar.jpg',
+    'http://[fe80::1]/avatar.jpg',
+  ])('%s is served unchanged', (image) => {
+    expect(new Avatars().build({ name: NAME, image, rounded: true })).toBe(image)
+  })
+
+  test.each([
+    'https://example.com/avatar.jpg',
+    'https://cdn.example.com/avatar.jpg?size=2',
+    'http://172.32.0.1/avatar.jpg',
+    'http://8.8.8.8/avatar.jpg',
+    'https://10.example.com/avatar.jpg',
+    'https://172.16.0.1.nip.io/avatar.jpg',
+    'http://[2001:db8::1]/avatar.jpg',
+    'https://testing.com/avatar.jpg',
+  ])('%s is proxied', (image) => {
+    expect(new Avatars().build({ name: NAME, image })).toMatch(/^https:\/\/wsrv\.nl\/\?url=/)
+  })
+})
